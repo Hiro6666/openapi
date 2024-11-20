@@ -15,4 +15,5 @@ type AuthMethod string
 const (
 	AuthMethod__5_G_AKA      AuthMethod = "5G_AKA"
 	AuthMethod_EAP_AKA_PRIME AuthMethod = "EAP_AKA_PRIME"
+	AuthMethod_WAGF          AuthMethod = "WAGF"
 )
